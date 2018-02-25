@@ -29,7 +29,7 @@ $conn->close();
   <br>
   
   <input type="submit" name="submit" value="Submit" onclick="Rooms.php"  >
-  <input type="button" onclick="parent.location='Rooms.php'" value="Back">
+  <input type="button" onclick="parent.location='BackDisk.php'" value="Back">
 </form> 
 
 

@@ -44,7 +44,7 @@ foreach($btns as $btn)
 <html>
 <head>
     <title>Rooms</title>
-    <link href="Room.css" rel="stylesheet" />
+	<link type="text/css" href="../css/Room.css" rel="stylesheet" />
     
 </head>
 <body>

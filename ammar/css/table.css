@@ -1,0 +1,86 @@
+body {
+    font-family: 'Verdana';
+    font-size: 13px;
+}
+
+table {
+    width: 100%;
+    border-width: 1px 1px 0 0;
+    border-style: solid;
+    border-color: #999;
+}
+
+table tr td {
+    border-width: 0 0 1px 1px;
+    border-style: solid;
+    border-color: #7FFFD4;
+    width: 12.4%;
+}
+
+table tbody tr td:first-child {
+    background-color: #eee;
+    text-align: center;
+	height: 60px;
+}
+
+table thead tr td {
+    height: 40px;
+    text-align: center;
+    background-color: #ddd;
+}
+
+table tbody td {
+    height: 80px;
+}
+
+.t1
+{	color : #FFFFFF;
+	font-family: "Baskerville Old Face";
+	font-size: 35px;
+	text-align: center;	
+	margin: 43.0%;
+	
+}
+
+
+#a1
+{	
+	Background-color: #acff9e;
+	height:150px;
+	width: 100%;
+	text-align: center;	
+    
+  
+}
+
+.aB
+{text-align: center;	}
+
+.button1
+{
+	text-align: right;
+	height:150px;
+	width: 31px;
+	Background-color:#ffcccc;
+	position:static;
+}
+
+.button2
+{
+	text-align: left;	
+	height:150px;
+	width: 31px;
+	Background-color:#ffcccc;
+	position:static;
+
+}
+.button3
+{
+	
+	height:50px;
+	width: 200px;
+}
+
+
+
+

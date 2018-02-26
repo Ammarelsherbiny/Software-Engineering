@@ -71,7 +71,8 @@ $str='';
 	
 foreach($btns as $btn)
 	{
-		$str.='&nbsp;<input type="button" value="'.$btn['Num'].'" name="btn_'.$btn['Num'].'" id="button1" class="button1"/>';
+		$pass='Calendar.php';
+		$str.='&nbsp;<input type="button"  value="'.$btn['Num'].'" name="btn_'.$btn['Num'].'" id="button1" class="button1" onclick=window.parent.location.href="Calendar.php" target="_parent"/>';
 	
 	}
 	return $str;
